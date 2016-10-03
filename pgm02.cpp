@@ -1,5 +1,5 @@
 /* This is for CS 300 pgm 02
- * PRINCE CLUMSON-EKLU & H888A642
+ * 
  * Last update: 09/22/2016
  */
 
