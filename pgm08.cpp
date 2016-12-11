@@ -1,7 +1,7 @@
 /*
  * adapted from http://quiz.geeksforgeeks.org/merge-sort/
  */
-// PRINCE CLUMSON H888A642 12 05 2016 
+// PRINCE CLUMSON  12 05 2016 
 
 #include<iostream>
 #include<stdlib.h>
