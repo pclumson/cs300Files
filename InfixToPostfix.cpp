@@ -1,5 +1,5 @@
 /* CS300 Extra Credit- Infix to Postfix
- * PRINCE CLUMSON-EKLU  H888642
+ * PRINCE CLUMSON-EKLU  
  * Last Update: 10/31/2016
  * 
  */
