@@ -1,7 +1,7 @@
 // This program is an application of linked list.
 // It is a mgmt program for book list. 
 // It uses BookNode as node, BookList as linked list.
-// Writtern by: PRINCE CLUMSON-EKLU  H888A642
+// Writtern by: PRINCE CLUMSON-EKLU  
 // Last modified date: Oct 10, 2016
 
 
