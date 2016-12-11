@@ -1,5 +1,5 @@
 //Binary Search Tree Program
-//PRINCE CLUMSON-EKLU H888A642
+//PRINCE CLUMSON-EKLU 
 #include <iostream>
 #include <cstdlib>
 using namespace std;
