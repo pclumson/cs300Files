@@ -1,5 +1,5 @@
 // implementation for the stack : EXTRA CREDIT
-// PRINCE CLUMSON-EKLU  H888A642
+// PRINCE CLUMSON-EKLU  
 //LAST MODIFIED : 10/19/2016
  
  
