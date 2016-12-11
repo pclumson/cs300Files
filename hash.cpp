@@ -1,7 +1,7 @@
 // This is cpp file for CS 300 hash table program. 
 // It takes 100,000 integers from cin (using Linux I/O redirection), 
 //   make a hash table and read and search another 100,000 integers
-// Written by: PRINCE CLUMSON EKLU  H888A642  11/ 28 /2016
+// Written by: PRINCE CLUMSON EKLU    11/ 28 /2016
 
 
 #include <iostream>
