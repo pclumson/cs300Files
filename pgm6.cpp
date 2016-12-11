@@ -1,6 +1,6 @@
 //PRINCE CLUMSON
 //Program 6
-//MyWsu ID: H888A642
+//***************
 
 #include <iostream>
 #include <cstdlib>
